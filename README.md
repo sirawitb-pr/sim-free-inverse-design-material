@@ -75,15 +75,10 @@ manuscript) are written under `./outputs/`.
   which is expected and normal for GAN training.
 - The random seed used for scatter-plot jitter in the Figure 2 panel
   (d) visualization (`np.random.seed(42)` inside `export_panel_d()`) is
-  cosmetic only and does not affect any reported metric; it exists
+  cosmetic only and does not affect any reported metric. It exists
   solely to make the plotted point positions reproducible.
 
 ## Scope note
 
-Two auxiliary steps referenced in the manuscript, (1) STL/mesh export
-of the physical print files, and (2) OpenSCAD-based geometry generation,
-are handled by separate fabrication scripts not included in this
-repository, which covers only the deep learning training and evaluation
-pipeline (forward model, inverse model, and cycle-consistency
-evaluation).
-
+This repository covers only the deep learning pipeline (forward model, inverse model, and cycle-consistency). The two auxiliary steps mentioned in the manuscript—generating geometries in OpenSCAD and exporting STL/mesh print files—are handled by separate fabrication scripts that are not included here.
+This repository covers only the deep learning pipeline (forward model, inverse model, and cycle-consistency). The two auxiliary steps mentioned in the manuscript—generating geometries in OpenSCAD and exporting STL/mesh print files—are handled by separate fabrication scripts that are not included here.
