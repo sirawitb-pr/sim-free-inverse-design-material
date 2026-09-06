@@ -1,4 +1,4 @@
-# Simulation-Free Generative Deep Learning for Inverse Design of 4D-Printed Shape-Morphing Materials
+# Simulation-Free Experiment-Trained Deep Learning for Generative Inverse Design of 4D-Printed Shape-Morphing Materials
 
 Forward and inverse Pix2Pix conditional GAN models for the pattern &lt;-&gt;
 shape mapping of a 4D-printed bilayer hydrogel system, trained entirely
