@@ -34,7 +34,7 @@ both physically fabricated and imaged (no simulated data).
 
 The full dataset is deposited at Mendeley Data: 10.17632/5jws9g65yf.1.
 
-Expected local folder structure after downloading:
+Local folder structure after downloading:
 
 ```
 data/
@@ -87,12 +87,3 @@ repository, which covers only the deep learning training and evaluation
 pipeline (forward model, inverse model, and cycle-consistency
 evaluation).
 
-## Citation
-
-If you use this code, please cite:
-
-[Author list], "[Manuscript title]," [Journal], [year]. [DOI]
-
-## License
-
-[Add your chosen license, e.g., MIT]
