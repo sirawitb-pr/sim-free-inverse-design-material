@@ -80,5 +80,4 @@ manuscript) are written under `./outputs/`.
 
 ## Scope note
 
-This repository covers only the deep learning pipeline (forward model, inverse model, and cycle-consistency). The two auxiliary steps mentioned in the manuscript—generating geometries in OpenSCAD and exporting STL/mesh print files—are handled by separate fabrication scripts that are not included here.
-This repository covers only the deep learning pipeline (forward model, inverse model, and cycle-consistency). The two auxiliary steps mentioned in the manuscript—generating geometries in OpenSCAD and exporting STL/mesh print files—are handled by separate fabrication scripts that are not included here.
+This repository covers only the deep learning pipeline (forward model, inverse model, and cycle-consistency). The two auxiliary steps mentioned in the manuscript (generating geometries in OpenSCAD and exporting STL/mesh print files) are handled by separate fabrication scripts that are not included here.
