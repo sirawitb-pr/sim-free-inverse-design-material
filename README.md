@@ -32,7 +32,7 @@ pair comprising:
 
 both physically fabricated and imaged (no simulated data).
 
-The full dataset is deposited at Mendeley Data: **[10.17632/5jws9g65yf.1]**.
+The full dataset is deposited at Mendeley Data: 10.17632/5jws9g65yf.1.
 
 Expected local folder structure after downloading:
 
